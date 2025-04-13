@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-13T17:51:30 IST" name="Suite" finished-at="2025-04-13T17:51:44 IST" duration-ms="14246">
+    <groups>
+    </groups>
+    <test started-at="2025-04-13T17:51:30 IST" name="Test" finished-at="2025-04-13T17:51:44 IST" duration-ms="14246">
+      <class name="tests.Test01">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Test01@2d29b4ee]" started-at="2025-04-13T17:51:31 IST" name="setup" finished-at="2025-04-13T17:51:35 IST" duration-ms="4284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="getPollingStation(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:tests.Test01@2d29b4ee]" started-at="2025-04-13T17:51:35 IST" name="getPollingStation" description="Test to Downlaod Voter Roll" data-provider="dataprovider" finished-at="2025-04-13T17:51:37 IST" duration-ms="1775" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3-Adilabad]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7-Adilabad]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Akoli]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPollingStation -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:tests.Test01@2d29b4ee]" started-at="2025-04-13T17:51:37 IST" name="quitDriver" finished-at="2025-04-13T17:51:37 IST" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Test01@2d29b4ee]" started-at="2025-04-13T17:51:37 IST" name="setup" finished-at="2025-04-13T17:51:39 IST" duration-ms="1705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="getPollingStation(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:tests.Test01@2d29b4ee]" started-at="2025-04-13T17:51:39 IST" name="getPollingStation" description="Test to Downlaod Voter Roll" data-provider="dataprovider" finished-at="2025-04-13T17:51:40 IST" duration-ms="1418" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6-Kamareddy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[15-Yellareddy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Zilla Parishad High School,Chadmal (T), 8th Class Room]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPollingStation -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:tests.Test01@2d29b4ee]" started-at="2025-04-13T17:51:40 IST" name="quitDriver" finished-at="2025-04-13T17:51:41 IST" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Test01@2d29b4ee]" started-at="2025-04-13T17:51:41 IST" name="setup" finished-at="2025-04-13T17:51:42 IST" duration-ms="1618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="getPollingStation(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:tests.Test01@2d29b4ee]" started-at="2025-04-13T17:51:42 IST" name="getPollingStation" description="Test to Downlaod Voter Roll" data-provider="dataprovider" finished-at="2025-04-13T17:51:44 IST" duration-ms="1922" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9-Karimnagar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[26-Karimnagar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Primary School , Room No.1, Nagulamalyal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPollingStation -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:tests.Test01@2d29b4ee]" started-at="2025-04-13T17:51:44 IST" name="quitDriver" finished-at="2025-04-13T17:51:44 IST" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- tests.Test01 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
